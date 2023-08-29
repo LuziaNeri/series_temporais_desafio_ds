@@ -16,8 +16,8 @@ Aaron O'Neill, May 10, 2023
 
 
 ## Como executar o projeto ##
-1. Colone o repositório.
-2. Utilize o Colab ou jupyter nootebook.
+1. Colne o repositório.
+2. Utilize o Colab ou jupyter nootebook, para rodar o projeto.
 3. Baixe/atualize as bibibliotecas especificadas no requirements.txt.
 4. Execute o arquivo 'desafio_ds_time_series_ gdp.ipynb'
 
