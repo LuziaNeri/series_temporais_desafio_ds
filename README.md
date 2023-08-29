@@ -15,7 +15,7 @@ Para tanto, foi desenvolvida uma EDA (exploratory data analysis) avaliando as pr
 Aaron O'Neill, May 10, 2023
 
 
-## Executar o projeto ##
+## Como executar o projeto ##
 1. Colone o repositório.
 2. Utilize o Colab ou jupyter nootebook.
 3. Baixe/atualize as as bibibliotecas especificadas no requirements.txt.
