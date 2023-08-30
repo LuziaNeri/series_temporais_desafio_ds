@@ -22,6 +22,10 @@ Aaron O'Neill, May 10, 2023
 4. Anexe/salve o arquivo Continentes e sub_regiões.csv ao Colab ou jupyter nootebook, e o arquivo database.sxlsx ao Google Drive. O arquivo database.sxlsx contém a base de dados analisada, enquanto o arquivo Continentes e sub_regiões.csv contém os dados para imputação de novas colunas. 
 6. Execute o arquivo 'desafio_ds_time_series_ gdp.ipynb'
 
+Depois de executar o projeto, serão extraídos dois arquivos:
+1. forecast_results.xlsx: contém as previões e as métricas avaliadas.
+2. predicted.csv: contém a imputação de dados que estavam como 'no data' e as previsões para os anos de 2024 a 2028.
+   
 -------------------
 
 
