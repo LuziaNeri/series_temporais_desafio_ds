@@ -19,7 +19,8 @@ Aaron O'Neill, May 10, 2023
 1. Colne o repositório.
 2. Utilize o Colab ou jupyter nootebook, para rodar o projeto.
 3. Baixe/atualize as bibibliotecas especificadas no requirements.txt.
-4. Execute o arquivo 'desafio_ds_time_series_ gdp.ipynb'
+4. Anexe/salve o arquivo Continentes e sub_regiões.csv ao Colab ou jupyter nootebook, e o arquivo database.sxlsx ao Google Drive. O arquivo database.sxlsx contém a base de dados analisada, enquanto o arquivo Continentes e sub_regiões.csv contém os dados para imputação de novas colunas. 
+6. Execute o arquivo 'desafio_ds_time_series_ gdp.ipynb'
 
 -------------------
 
