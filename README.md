@@ -2,8 +2,6 @@
 
 ## Previsão do crescimento do índice GDP ##
 
-Com o modelo ARIMA foi possível prever o GDP para os anos de 2024 à 2028, com um MAPE (Mean Absolute Percentage Error) de 37,01%.
-
 ## Proposta do desafio
 
 O objetivo deste desafio é testar os conhecimentos sobre a resolução de problemas de análise de dados e aplicação de modelos preditivos, testar os conhecimentos sobre os conceitos estatísticos de modelos preditivos, a criatividade na resolução de problemas e a aplicação de modelos básicos de machine learning.
@@ -20,7 +18,7 @@ Aaron O'Neill, May 10, 2023
 2. Utilize o Colab ou jupyter nootebook, para rodar o projeto.
 3. Baixe/atualize as bibibliotecas especificadas no requirements.txt.
 4. Anexe/salve o arquivo Continentes e sub_regiões.csv ao Colab ou jupyter nootebook, e o arquivo database.sxlsx ao Google Drive. O arquivo database.sxlsx contém a base de dados analisada, enquanto o arquivo Continentes e sub_regiões.csv contém os dados para imputação de novas colunas. 
-6. Execute o arquivo 'desafio_ds_time_series_ gdp.ipynb'
+6. Execute o arquivo 'desafio_ds_time_series_gdp.ipynb'
 
 Depois de executar o projeto, serão extraídos dois arquivos:
 1. forecast_results.xlsx: contém as previões e as métricas avaliadas.
