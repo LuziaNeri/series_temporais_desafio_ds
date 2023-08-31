@@ -17,7 +17,7 @@ Aaron O'Neill, May 10, 2023
 1. Colne o repositório.
 2. Utilize o Colab ou jupyter nootebook, para rodar o projeto.
 3. Baixe/atualize as bibibliotecas especificadas no requirements.txt.
-4. Anexe/salve o arquivo **Continentes e sub_regiões.csv** ao Colab ou jupyter nootebook. Anexe/salve o arquivo **database.sxlsx** ao Google Drive e atualize o código abaixo que está no passo **'1. Importar as bibliotecas necessárias e ler dataframe'** com o link do seu arquivo no seu Goodle Drive:
+4. Anexe/salve o arquivo **Continentes e sub_regiões.csv** ao Colab ou jupyter nootebook. Anexe/salve o arquivo **database.sxlsx** ao Google Drive e atualize o código abaixo que está no passo **'1. Importar as bibliotecas necessárias e ler dataframe'** com o link do seu arquivo no seu Goode Drive:
    
    "from google.colab import drive
 
