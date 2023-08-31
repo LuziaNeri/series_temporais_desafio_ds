@@ -4,7 +4,7 @@
 
 ## Proposta do desafio
 
-O objetivo deste desafio é testar os conhecimentos sobre a resolução de problemas de análise de dados e aplicação de modelos preditivos, testar os conhecimentos sobre os conceitos estatísticos de modelos preditivos, a criatividade na resolução de problemas e a aplicação de modelos básicos de machine learning.
+O objetivo deste desafio é testar os conhecimentos sobre a resolução de problemas de análise de dados e aplicação de modelos preditivos, bem como testar os conhecimentos sobre os conceitos estatísticos de modelos preditivos, a criatividade na resolução de problemas e a aplicação de modelos básicos de machine learning.
 
 Para tanto, foi desenvolvida uma EDA (exploratory data analysis) avaliando as principais estatísticas em série temporal. Ademais, os campos "no data" foram substituídos por valores numéricos, utilizando a mediana dos grupos econômicos. Assim, foi previsto o crescimento do índice GDP de cada país nos anos de 2024-2028 com o modelo ARIMA e, posteriormente, os resultados foram comparados com o previsto pelo Statistica. 
 
