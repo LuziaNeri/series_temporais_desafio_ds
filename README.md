@@ -29,7 +29,7 @@ O arquivo **database.sxlsx** contém a base de dados analisada, enquanto o arqui
    Esse arquivo contém todo o código do projeto: a EDA, substituição dos 'no data' e o código para previsão do GDP.
 
 Depois de executar o projeto, serão extraídos dois arquivos:
-1. **forecast_results.xlsx**: contém as previões e as métricas avaliadas.
+1. **forecast_results.xlsx**: contém as previsões e as métricas avaliadas.
 2. **predicted.csv**: contém a imputação de dados que estavam como 'no data' e as previsões para os anos de 2024 a 2028.
    
 -------------------
