@@ -15,7 +15,7 @@ Aaron O'Neill, May 10, 2023
 
 ## Como executar o projeto ##
 1. Baixe o arquivo 'desafio_ds_time_series_gdp.ipynb' desse repositório e utilize o Colab ou jupyter nootebook para executar o projeto.
-2. Baixe/atualize as bibibliotecas especificadas no requirements.txt.
+2. Baixe/atualize as bibliotecas especificadas no requirements.txt.
 3. Anexe/salve o arquivo **Continentes e sub_regiões.csv** ao Colab ou jupyter nootebook.
 4. Anexe/salve o arquivo **database.sxlsx** ao Google Drive e atualize o código abaixo que está no passo **'1. Importar as bibliotecas necessárias e ler dataframe'** com o link do seu arquivo no seu Google Drive:
    
