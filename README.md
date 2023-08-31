@@ -17,7 +17,14 @@ Aaron O'Neill, May 10, 2023
 1. Colne o repositório.
 2. Utilize o Colab ou jupyter nootebook, para rodar o projeto.
 3. Baixe/atualize as bibibliotecas especificadas no requirements.txt.
-4. Anexe/salve o arquivo Continentes e sub_regiões.csv ao Colab ou jupyter nootebook, e o arquivo database.sxlsx ao Google Drive. O arquivo database.sxlsx contém a base de dados analisada, enquanto o arquivo Continentes e sub_regiões.csv contém os dados para imputação de novas colunas. 
+4. Anexe/salve o arquivo **Continentes e sub_regiões.csv** ao Colab ou jupyter nootebook. Anexe/salve o arquivo **database.sxlsx** ao Google Drive e atualize o código abaixo que está no passo **'1. Importar as bibliotecas necessárias e ler dataframe'** com o link do seu arquivo no seu Goodle Drive:
+   
+   "from google.colab import drive
+
+      drive.mount('/content/drive')"
+    
+O arquivo database.sxlsx contém a base de dados analisada, enquanto o arquivo Continentes e sub_regiões.csv contém os dados para imputação de novas colunas. 
+
 6. Execute o arquivo 'desafio_ds_time_series_gdp.ipynb'.
    Esse arquivo contém todo o código do projeto: a EDA, substituição dos 'no data' e o código para previsão do GDP.
 
